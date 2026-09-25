@@ -35,9 +35,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xatson-industrial?tab=repositories">repositories</a>
-  ·
   <a href="https://xatson-industrial.github.io/xatson-industrial/">archive</a>
+  ·
+  <a href="https://github.com/xatson-industrial?tab=repositories">repositories</a>
   ·
   <a href="https://github.com/xatson-industrial">github</a>
 </p>
